@@ -1,0 +1,37 @@
+# Rime user dictionary
+#@/db_name	wubi86.userdb
+#@/db_type	userdb
+#@/rime_version	1.3.1
+#@/tick	23
+#@/user_id	rimebox
+fhq 	赵	c=2 d=1.80067 t=23
+gh 	下	c=1 d=0.980199 t=23
+hhue 	目前	c=1 d=0.918512 t=23
+ifc 	法	c=1 d=0.946485 t=23
+imya 	测试	c=2 d=1.97045 t=23
+j 	是	c=1 d=0.932394 t=23
+k 	中	c=1 d=0.951229 t=23
+khyy 	中文	c=1 d=1.03267 t=23
+lwty 	输入	c=1 d=0.941765 t=23
+mbwr 	邮件	c=1 d=0.99005 t=23
+r 	的	c=2 d=1.92275 t=23
+so 	杰	c=1 d=0.913931 t=23
+tguq 	生效	c=1 d=0.960789 t=23
+wfn 	伟	c=2 d=1.8097 t=23
+wget 	使用	c=1 d=0.923116 t=23
+xtum 	终端	c=1 d=0.97531 t=23
+ygjg 	主题	c=1 d=0.965605 t=23
+yygy 	文	c=1 d=0.955997 t=23
+encfhwf 	赵伟	c=0 d=0.0909373 t=23
+encfwso 	赵伟杰	c=0 d=0.0913931 t=23
+enchuwe 	目前使用	c=0 d=0.0923116 t=23
+encjkyy 	是中文	c=0 d=0.0937067 t=23
+enckylt 	中文输入	c=0 d=0.0941765 t=23
+encltif 	输入法	c=0 d=0.0946485 t=23
+encmwrq 	邮件的	c=0 d=0.0995012 t=23
+encriya 	的测试	c=0 d=0.1 t=23
+encrjky 	的是中文	c=0 d=0.0937067 t=23
+encrqjg 	的是	c=0 d=0.0932394 t=23
+encwerj 	使用的是	c=0 d=0.0932394 t=23
+encwerq 	使用的	c=0 d=0.0927743 t=23
+encwfso 	伟杰	c=0 d=0.0913931 t=23
