@@ -2,42 +2,452 @@
 #@/db_name	wubi86.userdb
 #@/db_type	userdb
 #@/rime_version	1.3.1
-#@/tick	30
+#@/tick	368
 #@/user_id	rimebox
-fhq 	赵	c=2 d=1.80067 t=30
-gh 	下	c=1 d=0.980199 t=30
-hhue 	目前	c=1 d=0.918512 t=30
-ifc 	法	c=1 d=0.946485 t=30
-imya 	测试	c=2 d=1.97045 t=30
-j 	是	c=1 d=0.932394 t=30
-k 	中	c=2 d=1.91353 t=30
-khyy 	中文	c=1 d=1.09715 t=30
-lwty 	输入	c=1 d=0.941765 t=30
-mbwr 	邮件	c=1 d=0.99005 t=30
-puvc 	初始	c=1 d=1 t=26
-puvc 	寝	c=1 d=1 t=24
-r 	的	c=2 d=1.92275 t=30
-rjuq 	提交	c=1 d=1 t=28
-so 	杰	c=1 d=0.913931 t=30
-tguq 	生效	c=1 d=0.960789 t=30
-wfn 	伟	c=2 d=1.8097 t=30
-wget 	使用	c=1 d=0.923116 t=30
-wx 	化	c=1 d=1 t=27
-xtum 	终端	c=1 d=0.97531 t=30
-ygjg 	主题	c=1 d=0.965605 t=30
-yygy 	文	c=2 d=1.92312 t=30
-encfhwf 	赵伟	c=0 d=0.0909373 t=30
-encfwso 	赵伟杰	c=0 d=0.0913931 t=30
-enchuwe 	目前使用	c=0 d=0.0923116 t=30
-encjkyy 	是中文	c=0 d=0.0937067 t=30
-enckylt 	中文输入	c=0 d=0.0941765 t=30
-encltif 	输入法	c=0 d=0.0946485 t=30
-encmwrq 	邮件的	c=0 d=0.0995012 t=30
-encpvwx 	初始化	c=0 d=0.1 t=27
-encriya 	的测试	c=0 d=0.1 t=30
-encrjky 	的是中文	c=0 d=0.0937067 t=30
-encrqjg 	的是	c=0 d=0.0932394 t=30
-encwerj 	使用的是	c=0 d=0.0932394 t=30
-encwerq 	使用的	c=0 d=0.0927743 t=30
-encwfso 	伟杰	c=0 d=0.0913931 t=30
-encwruq 	化提交	c=0 d=0.1 t=28
+aib 	范	c=4 d=1.06412 t=368
+ajwv 	划分	c=1 d=1 t=352
+atsg 	范特西	c=12 d=3.65844 t=368
+b 	了	c=5 d=2.92905 t=368
+bai 	陈	c=1 d=0.382893 t=368
+bb 	子	c=2 d=0.809177 t=368
+bn 	也	c=2 d=1.38018 t=368
+bsk 	阿	c=1 d=0.343009 t=368
+ccc 	又	c=2 d=1.03372 t=368
+ck 	台	c=1 d=0.904837 t=368
+cn 	马	c=1 d=0.460704 t=368
+d 	在	c=2 d=0.85718 t=368
+ddu 	套	c=1 d=0.759572 t=368
+dn 	成	c=1 d=0.56836 t=368
+e 	有	c=2 d=0.846872 t=368
+ebtl 	服务	c=9 d=6.89718 t=368
+et 	用	c=1 d=0.97531 t=368
+etgf 	用于	c=1 d=0.634448 t=368
+etyn 	用户	c=1 d=0.362402 t=368
+faqk 	域名	c=1 d=0.985112 t=368
+fcu 	支	c=1 d=0.346456 t=368
+fdsa 	魂牵梦萦	c=2 d=0.998834 t=368
+fggh 	干	c=1 d=0.522046 t=368
+fhq 	赵	c=2 d=1.80067 t=368
+fhru 	直接	c=1 d=0.499074 t=368
+fnw 	块	c=1 d=0.810584 t=368
+fp 	过	c=1 d=0.822835 t=368
+ftjb 	都	c=1 d=0.438235 t=368
+fwmj 	规则	c=1 d=1 t=347
+g 	一	c=4 d=2.67717 t=368
+gace 	开通	c=1 d=0.918512 t=368
+gaid 	开源	c=1 d=0.337902 t=368
+gc 	到	c=2 d=1.29584 t=368
+ge 	表	c=1 d=1 t=368
+gh 	下	c=3 d=1.27717 t=368
+ghg 	焉	c=1 d=0.453845 t=368
+gi 	不	c=7 d=4.62665 t=368
+gip 	还	c=1 d=0.666977 t=368
+gk 	事	c=2 d=1.02388 t=368
+gn 	与	c=4 d=3.83984 t=357
+go 	来	c=3 d=1.83493 t=368
+guck 	平台	c=1 d=0.683861 t=368
+h 	上	c=2 d=0.995606 t=368
+hhue 	目前	c=1 d=0.918512 t=368
+hto 	瞅	c=2 d=1.09497 t=368
+hwws 	具体	c=1 d=0.612626 t=368
+hxf 	些	c=1 d=0.860708 t=368
+ifc 	法	c=1 d=0.946485 t=368
+ihey 	涉及	c=1 d=0.615697 t=368
+ikh 	溃	c=1 d=0.232236 t=368
+im 	没	c=2 d=1.09784 t=368
+imya 	测试	c=2 d=1.97045 t=368
+iymm 	注册	c=1 d=0.67368 t=368
+j 	是	c=6 d=4.02018 t=368
+jbc 	最	c=1 d=0.66034 t=368
+jfd 	里	c=2 d=0.698183 t=368
+jfdm 	里面	c=1 d=0.597501 t=368
+jjfn 	日志	c=3 d=2.93635 t=363
+jn 	电	c=2 d=0.805141 t=368
+jqhh 	晚上	c=2 d=0.863432 t=368
+k 	中	c=5 d=2.11561 t=368
+kah 	呀	c=1 d=0.414783 t=368
+kb 	啊	c=4 d=1.80561 t=368
+kcg 	吗	c=1 d=0.436049 t=368
+kff 	哇	c=1 d=0.418952 t=368
+kh 	中	c=1 d=0.231078 t=368
+khgm 	贵	c=1 d=0.865022 t=368
+khtf 	中午	c=1 d=0.474734 t=368
+khyy 	中文	c=2 d=1.09715 t=368
+kkd 	器	c=5 d=3.79207 t=368
+kldn 	嗯	c=1 d=0.421052 t=368
+ktn 	吃	c=1 d=0.484325 t=368
+kw 	只	c=2 d=1.22863 t=368
+l 	国	c=1 d=0.341298 t=368
+lkfc 	回去	c=1 d=0.481909 t=368
+lwty 	输入	c=1 d=0.941765 t=368
+mbwr 	邮件	c=5 d=2.54583 t=368
+mfk 	周	c=1 d=0.329559 t=368
+mqnu 	购买	c=1 d=0.847894 t=368
+mqq 	网	c=4 d=2.73229 t=368
+mw 	内	c=2 d=1.98511 t=330
+nnxc 	已经	c=2 d=0.748807 t=368
+p 	这	c=3 d=1.65142 t=368
+ptrn 	客气	c=1 d=0.506617 t=368
+ptyn 	客户	c=1 d=1 t=358
+puvc 	初始	c=3 d=2.56043 t=368
+puvc 	寝	c=1 d=0.970446 t=368
+pvwg 	安全	c=1 d=0.798516 t=368
+pwjq 	容易	c=1 d=0.818731 t=368
+q 	我	c=3 d=2.21049 t=368
+qaj 	错	c=1 d=0.447088 t=368
+qdo 	然	c=1 d=0.843665 t=368
+qesr 	解析	c=1 d=0.99005 t=368
+qh 	外	c=3 d=1.90402 t=368
+qq 	多	c=1 d=0.946485 t=368
+r 	的	c=11 d=5.19596 t=368
+rat 	找	c=1 d=0.900325 t=368
+ravf 	搭建	c=2 d=1.94176 t=356
+rawk 	搭	c=1 d=0.752014 t=368
+rbc 	报	c=1 d=0.358796 t=368
+rcn 	把	c=1 d=0.394554 t=368
+rgk 	后	c=1 d=0.66365 t=368
+rhf 	看	c=1 d=0.585669 t=368
+rii 	朱	c=1 d=0.349938 t=368
+rjuq 	提交	c=1 d=0.99005 t=368
+rjwa 	提供	c=1 d=0.71177 t=368
+rprm 	控制	c=1 d=1 t=334
+s 	要	c=2 d=1.56615 t=368
+sfuw 	标准	c=1 d=0.373439 t=368
+sghg 	西	c=4 d=1.07481 t=368
+sglf 	配置	c=2 d=1.23313 t=368
+so 	杰	c=1 d=0.913931 t=368
+sud 	样	c=1 d=0.794534 t=368
+svfi 	要求	c=1 d=0.606531 t=368
+tcu 	么	c=1 d=0.50409 t=368
+tfj 	午	c=1 d=0.535261 t=368
+tglt 	策略	c=1 d=0.951229 t=368
+tguq 	生效	c=1 d=0.960789 t=368
+thgc 	版	c=1 d=0.375311 t=368
+thnn 	自己	c=1 d=0.748264 t=368
+thsg 	版本	c=1 d=1 t=333
+titf 	稍等	c=1 d=0.451581 t=368
+trf 	特	c=4 d=1.06945 t=368
+tu 	科	c=1 d=0.802519 t=368
+tutl 	税务	c=2 d=0.813233 t=368
+tve 	很	c=1 d=0.941765 t=368
+ua 	并	c=1 d=0.704688 t=368
+udqv 	着急	c=1 d=0.425283 t=368
+ueck 	前台	c=1 d=0.718924 t=368
+ueum 	前端	c=1 d=1 t=366
+umdj 	端	c=1 d=1 t=359
+uqrp 	将近	c=1 d=0.371577 t=368
+uwtl 	准备	c=1 d=0.477114 t=368
+v 	发	c=1 d=0.444858 t=368
+vb 	好	c=1 d=0.486752 t=368
+vbwq 	好像	c=1 d=0.960789 t=368
+vfb 	那	c=2 d=1.66295 t=368
+vfyy 	建议	c=2 d=1.43112 t=368
+vn 	刀	c=1 d=0.32628 t=368
+w 	人	c=1 d=0.236928 t=368
+wadc 	代码	c=2 d=1.27845 t=368
+wbn 	他	c=2 d=1.10046 t=368
+wfn 	伟	c=2 d=1.8097 t=368
+wftc 	什么	c=2 d=1.01877 t=368
+wget 	使用	c=3 d=1.58824 t=368
+wh 	个	c=2 d=0.592753 t=368
+wj 	介	c=1 d=0.501576 t=368
+wq 	你	c=1 d=0.467666 t=368
+wu 	们	c=2 d=1.6359 t=368
+wvfh 	分赴	c=1 d=0.332871 t=368
+wvfp 	健	c=1 d=0.336216 t=368
+wwj 	价	c=1 d=0.360595 t=368
+wwkm 	人员	c=1 d=0.722527 t=368
+wx 	化	c=3 d=2.57326 t=368
+wxf 	华	c=1 d=0.331211 t=368
+wxm 	货	c=1 d=0.511709 t=368
+wydn 	集成	c=1 d=0.680451 t=368
+wygd 	今天	c=1 d=0.431711 t=368
+wynf 	领导	c=2 d=0.990935 t=368
+wyqd 	依然	c=20 d=5.82804 t=368
+xfsq 	结构	c=1 d=1 t=351
+xtum 	终端	c=1 d=0.97531 t=368
+xw 	给	c=2 d=1.18067 t=368
+ygjg 	主题	c=1 d=0.965605 t=368
+yi 	就	c=2 d=0.745072 t=368
+ymet 	调用	c=1 d=0.65377 t=368
+ymyf 	设计	c=1 d=1 t=368
+yvcb 	郎	c=1 d=0.327915 t=368
+ywg 	诠	c=1 d=0.878095 t=368
+ywyg 	谁	c=1 d=0.440432 t=368
+yydm 	方面	c=1 d=0.882497 t=368
+yygy 	文	c=2 d=1.92312 t=368
+yysi 	文档	c=1 d=0.579842 t=368
+yywg 	方便	c=1 d=0.38868 t=368
+yywr 	文件	c=2 d=0.816257 t=368
+encaitr 	范特	c=0 d=0.0280832 t=368
+encatsg 	范特西	c=0 d=0.0282239 t=368
+encbggh 	了一下	c=0 d=0.0594521 t=368
+encbjfc 	阿里支	c=0 d=0.0346456 t=368
+encbndn 	也成	c=0 d=0.056836 t=368
+encbngg 	了一	c=0 d=0.0591555 t=368
+encbpjf 	也容易过	c=0 d=0.0822835 t=368
+encbpjq 	也容易	c=0 d=0.0818731 t=368
+encbsjf 	阿里	c=0 d=0.0344728 t=368
+encbttl 	子税务	c=0 d=0.0412714 t=368
+encccfg 	又干	c=0 d=0.0522046 t=368
+enccetl 	台服务	c=0 d=0.0909373 t=368
+encchxw 	马上给	c=0 d=0.0465334 t=368
+encchxw 	马上给你	c=0 d=0.0467666 t=368
+enccnhh 	马上	c=0 d=0.0463013 t=368
+encdetl 	套服务	c=0 d=0.0763379 t=368
+encdewh 	有个	c=0 d=0.0357007 t=368
+encdwrb 	有个报	c=0 d=0.0358796 t=368
+encdwrw 	有个报价	c=0 d=0.0360595 t=368
+encdwtc 	有什么	c=0 d=0.0494109 t=368
+encegwd 	用于代码	c=0 d=0.0637628 t=368
+encetbn 	用了	c=0 d=0.0980199 t=368
+encetkk 	服务器	c=0 d=0.0937067 t=368
+encetyy 	服务设计	c=0 d=0.1 t=368
+encfbpj 	块也容易	c=0 d=0.0818731 t=368
+encfhwf 	赵伟	c=0 d=0.0909373 t=368
+encfmwr 	支邮件	c=0 d=0.0348192 t=368
+encfnbn 	块也	c=0 d=0.0814647 t=368
+encfwso 	赵伟杰	c=0 d=0.0913931 t=368
+encgcrq 	到的	c=0 d=0.0621885 t=368
+encgcrq 	平台的	c=0 d=0.0687289 t=368
+encgdet 	一套服务	c=0 d=0.0763379 t=368
+encgebn 	不用了	c=0 d=0.0980199 t=368
+encgfmj 	与规则	c=0 d=0.1 t=347
+encgfru 	事直接	c=0 d=0.0499074 t=368
+encggdd 	一套	c=0 d=0.0759572 t=368
+encgggh 	一下	c=0 d=0.0594521 t=368
+encggyw 	一诠	c=0 d=0.0878095 t=368
+encgidh 	不在	c=0 d=0.0472367 t=368
+encgiet 	不用	c=0 d=0.097531 t=368
+encgikh 	开源中	c=0 d=0.0339596 t=368
+encgikl 	开源中国	c=0 d=0.0341298 t=368
+encgirc 	不把	c=0 d=0.0394554 t=368
+encgisv 	还要	c=0 d=0.067032 t=368
+encgkbn 	事了	c=0 d=0.0529935 t=368
+encgokb 	来啊	c=0 d=0.0548812 t=368
+encgpyn 	与客户	c=0 d=0.1 t=358
+encgpyu 	与客户端	c=0 d=0.1 t=359
+encgrjb 	不把电子	c=0 d=0.0398519 t=368
+encgrjn 	不把电	c=0 d=0.0396531 t=368
+encgrmw 	到的邮件	c=0 d=0.0625002 t=368
+encgrwa 	不提供	c=0 d=0.071177 t=368
+encgrwx 	不提供给	c=0 d=0.0715338 t=368
+encgsim 	还要注册	c=0 d=0.067368 t=368
+encguqk 	不着急啊	c=0 d=0.0427415 t=368
+encguqv 	不着急	c=0 d=0.0425283 t=368
+encgwdn 	到集成	c=0 d=0.0680451 t=368
+encgwet 	来使用	c=0 d=0.0729789 t=368
+encgxsq 	与结构	c=0 d=0.1 t=351
+enchhtf 	上午	c=0 d=0.0535261 t=368
+enchhxw 	上给	c=0 d=0.0465334 t=368
+enchkjg 	些贵是	c=0 d=0.0869358 t=368
+enchkjg 	些贵是一	c=0 d=0.0873716 t=368
+enchtih 	上午没瞅	c=0 d=0.0540641 t=368
+enchtim 	上午没	c=0 d=0.0537944 t=368
+enchtwb 	瞅他	c=0 d=0.0557106 t=368
+enchuwe 	目前使用	c=0 d=0.0923116 t=368
+enchwgk 	瞅他来啊	c=0 d=0.0548812 t=368
+enchwgo 	瞅他来	c=0 d=0.0546074 t=368
+enchwie 	具体涉及	c=0 d=0.0615697 t=368
+enchwig 	瞅他没来	c=0 d=0.0562705 t=368
+enchwim 	瞅他没	c=0 d=0.0559898 t=368
+enchxkh 	些贵	c=0 d=0.0865022 t=368
+enchxwq 	上给你	c=0 d=0.0467666 t=368
+enciegc 	涉及到	c=0 d=0.0618783 t=368
+enciegr 	涉及到的	c=0 d=0.0621885 t=368
+encihwb 	没瞅他	c=0 d=0.0543351 t=368
+encihwg 	没瞅他来	c=0 d=0.0546074 t=368
+encimgo 	没来	c=0 d=0.0562705 t=368
+encimht 	没瞅	c=0 d=0.0540641 t=368
+encjbrg 	最后	c=0 d=0.066365 t=368
+encjbtt 	电子税务	c=0 d=0.0412714 t=368
+encjdkj 	里面只是	c=0 d=0.0603506 t=368
+encjdkw 	里面只	c=0 d=0.0600496 t=368
+encjdwh 	里有个	c=0 d=0.0357007 t=368
+encjdwr 	里有个报	c=0 d=0.0358796 t=368
+encjegf 	是用于	c=0 d=0.0634448 t=368
+encjfde 	里有	c=0 d=0.0355226 t=368
+encjfet 	日志服务	c=0 d=0.1 t=361
+encjffc 	里支	c=0 d=0.0346456 t=368
+encjfmw 	里支邮件	c=0 d=0.0348192 t=368
+encjgeb 	是不用了	c=0 d=0.0980199 t=368
+encjget 	是不用	c=0 d=0.097531 t=368
+encjggg 	是一	c=0 d=0.0873716 t=368
+encjggi 	是不	c=0 d=0.0970446 t=368
+encjgtr 	是我	c=0 d=0.0740818 t=368
+encjgyw 	是一诠	c=0 d=0.0878095 t=368
+encjkyy 	是中文	c=0 d=0.0937067 t=368
+encjnbb 	电子	c=0 d=0.0410656 t=368
+encjrgi 	最后还	c=0 d=0.0666977 t=368
+encjrgs 	最后还要	c=0 d=0.067032 t=368
+encjsfi 	是要求	c=0 d=0.0606531 t=368
+encjtwu 	是我们	c=0 d=0.0744532 t=368
+enckfkl 	哇嗯	c=0 d=0.0421052 t=368
+enckgce 	器开通	c=0 d=0.0918512 t=368
+enckhik 	中溃	c=0 d=0.0232236 t=368
+enckhjg 	贵是	c=0 d=0.0869358 t=368
+enckhlg 	中国	c=0 d=0.0341298 t=368
+enckjeg 	只是用于	c=0 d=0.0634448 t=368
+enckjgg 	贵是一	c=0 d=0.0873716 t=368
+enckjgy 	贵是一诠	c=0 d=0.0878095 t=368
+enckjsf 	只是要求	c=0 d=0.0606531 t=368
+enckkrq 	器的	c=0 d=0.1 t=337
+enckrvf 	器搭建	c=0 d=0.1 t=356
+encktut 	中午准备	c=0 d=0.0477114 t=368
+enckwer 	中使用的	c=0 d=0.0650509 t=368
+enckwet 	中使用	c=0 d=0.0647265 t=368
+enckwjg 	只是	c=0 d=0.0631284 t=368
+enckylt 	中文输入	c=0 d=0.0941765 t=368
+encltif 	输入法	c=0 d=0.0946485 t=368
+encmfwx 	周华	c=0 d=0.0331211 t=368
+encmnrq 	购买的	c=0 d=0.0852144 t=368
+encmnrv 	购买的那	c=0 d=0.0856415 t=368
+encmqmq 	内外网	c=0 d=0.1 t=332
+encmqrq 	网的	c=0 d=0.0937067 t=368
+encmrjb 	网的电子	c=0 d=0.0410656 t=368
+encmrjn 	网的电	c=0 d=0.0408608 t=368
+encmrtq 	网的很多	c=0 d=0.0946485 t=368
+encmrtv 	网的很	c=0 d=0.0941765 t=368
+encmtsg 	网版本	c=0 d=0.1 t=333
+encmwet 	邮件服务	c=0 d=0.0778801 t=368
+encmwmq 	内网	c=0 d=0.1 t=328
+encmwqh 	内外	c=0 d=0.1 t=331
+encmwrq 	邮件的	c=0 d=0.0995012 t=368
+encmwwf 	周华分赴	c=0 d=0.0332871 t=368
+encnqbn 	发错了	c=0 d=0.0449329 t=368
+encntqa 	发错	c=0 d=0.0447088 t=368
+encpjfp 	容易过	c=0 d=0.0822835 t=368
+encpvwg 	初始化与	c=0 d=0.1 t=350
+encpvwx 	初始化	c=0 d=0.0985112 t=368
+encpwtu 	安全科	c=0 d=0.0802519 t=368
+encpwtv 	安全科那	c=0 d=0.0806541 t=368
+encpyum 	客户端	c=0 d=0.1 t=359
+encqabn 	错了	c=0 d=0.0449329 t=368
+encqhmq 	外网	c=0 d=0.0932394 t=368
+encqmrj 	外网的电	c=0 d=0.0408608 t=368
+encqmrq 	外网的	c=0 d=0.0937067 t=368
+encqmrt 	外网的很	c=0 d=0.0941765 t=368
+encqmts 	外网版本	c=0 d=0.1 t=333
+encqssl 	解析配置	c=0 d=0.0995012 t=368
+encqtlt 	多策略	c=0 d=0.0951229 t=368
+encrack 	找台	c=0 d=0.0904837 t=368
+encragg 	搭一	c=0 d=0.0755784 t=368
+encrbgg 	看了一	c=0 d=0.0591555 t=368
+encrbgg 	看了一下	c=0 d=0.0594521 t=368
+encrbww 	报价	c=0 d=0.0360595 t=368
+encrcet 	找台服务	c=0 d=0.0909373 t=368
+encrcjn 	把电	c=0 d=0.0396531 t=368
+encrgdd 	搭一套	c=0 d=0.0759572 t=368
+encrggi 	后还	c=0 d=0.0666977 t=368
+encrgsv 	后还要	c=0 d=0.067032 t=368
+encrhbn 	看了	c=0 d=0.0588605 t=368
+encriya 	的测试	c=0 d=0.1 t=368
+encrjbb 	把电子	c=0 d=0.0398519 t=368
+encrjbb 	的电子	c=0 d=0.0410656 t=368
+encrjky 	的是中文	c=0 d=0.0937067 t=368
+encrmwr 	的邮件	c=0 d=0.0625002 t=368
+encrqjg 	的是	c=0 d=0.0932394 t=368
+encrqjn 	的电	c=0 d=0.0408608 t=368
+encrqtv 	的很	c=0 d=0.0941765 t=368
+encrqvf 	的那	c=0 d=0.0856415 t=368
+encrqwh 	的个	c=0 d=0.0235746 t=368
+encrqyi 	的就	c=0 d=0.0367879 t=368
+encrret 	控制服务	c=0 d=0.1 t=335
+encrtqq 	的很多	c=0 d=0.0946485 t=368
+encrvhk 	的那些贵	c=0 d=0.0865022 t=368
+encrvhx 	的那些	c=0 d=0.0860708 t=368
+encrwww 	的个人	c=0 d=0.0236928 t=368
+encrwxw 	提供给	c=0 d=0.0715338 t=368
+encrynx 	的就已经	c=0 d=0.0369723 t=368
+encsimm 	要注册	c=0 d=0.067368 t=368
+encslge 	配置表	c=0 d=0.1 t=368
+encslyw 	配置文件	c=0 d=0.0239309 t=368
+encspwg 	样安全	c=0 d=0.0798516 t=368
+encspwt 	样安全科	c=0 d=0.0802519 t=368
+encsrck 	要找台	c=0 d=0.0904837 t=368
+encsvra 	要找	c=0 d=0.0900325 t=368
+enctfim 	午没	c=0 d=0.0537944 t=368
+encthyi 	版就	c=0 d=0.0377192 t=368
+enctiht 	午没瞅	c=0 d=0.0540641 t=368
+enctihw 	午没瞅他	c=0 d=0.0543351 t=368
+enctnra 	自己搭	c=0 d=0.0752014 t=368
+enctnrg 	自己搭一	c=0 d=0.0755784 t=368
+enctprn 	么客气	c=0 d=0.0506617 t=368
+enctqtl 	很多策略	c=0 d=0.0951229 t=368
+enctrbg 	我看了一	c=0 d=0.0591555 t=368
+enctrbn 	我看了	c=0 d=0.0588605 t=368
+enctrrh 	我看	c=0 d=0.0585669 t=368
+enctrsg 	特西	c=0 d=0.0282239 t=368
+enctrwu 	我们	c=0 d=0.0891366 t=368
+enctsrr 	版本控制	c=0 d=0.1 t=334
+enctuvf 	科那	c=0 d=0.0806541 t=368
+enctvfb 	科那块也	c=0 d=0.0814647 t=368
+enctvfn 	科那块	c=0 d=0.0810584 t=368
+enctvqq 	很多	c=0 d=0.0946485 t=368
+enctwsr 	我们要找	c=0 d=0.0900325 t=368
+enctwsv 	我们要	c=0 d=0.0895834 t=368
+enctwtn 	我们自己	c=0 d=0.0748264 t=368
+enctynx 	版就已经	c=0 d=0.0379083 t=368
+encuagi 	并不	c=0 d=0.070822 t=368
+encucwk 	前台人员	c=0 d=0.0722527 t=368
+encugrw 	并不提供	c=0 d=0.071177 t=368
+encujfn 	端日志	c=0 d=0.1 t=360
+encuqkb 	着急啊	c=0 d=0.0427415 t=368
+encuuet 	前端服务	c=0 d=0.1 t=367
+encvfbn 	那块也	c=0 d=0.0814647 t=368
+encvffn 	那块	c=0 d=0.0810584 t=368
+encvfhx 	那些	c=0 d=0.0860708 t=368
+encvhkh 	那些贵	c=0 d=0.0865022 t=368
+encvhkj 	那些贵是	c=0 d=0.0869358 t=368
+encvnyv 	刀郎	c=0 d=0.0327915 t=368
+encvwjg 	好像是	c=0 d=0.0965605 t=368
+encvwjg 	好像是不	c=0 d=0.0970446 t=368
+encvyjg 	建议是	c=0 d=0.0737123 t=368
+encvyjt 	建议是我	c=0 d=0.0740818 t=368
+encwbgo 	他来	c=0 d=0.0546074 t=368
+encwbim 	他没	c=0 d=0.0559898 t=368
+encwdgc 	集成平台	c=0 d=0.0683861 t=368
+encwdkh 	代码中	c=0 d=0.0644036 t=368
+encwerj 	使用的是	c=0 d=0.0932394 t=368
+encwerq 	使用的	c=0 d=0.0927743 t=368
+encwfso 	伟杰	c=0 d=0.0913931 t=368
+encwgjh 	今天晚上	c=0 d=0.0433874 t=368
+encwgkb 	他来啊	c=0 d=0.0548812 t=368
+encwgxs 	化与结构	c=0 d=0.1 t=351
+encwhrb 	个报	c=0 d=0.0358796 t=368
+encwhww 	个人	c=0 d=0.0236928 t=368
+encwigo 	他没来	c=0 d=0.0562705 t=368
+encwjtc 	介么	c=0 d=0.050409 t=368
+encwkgo 	人员来	c=0 d=0.0726149 t=368
+encwqai 	依然范	c=0 d=0.0279431 t=368
+encwqat 	依然范特	c=0 d=0.0280832 t=368
+encwqwq 	依然依然	c=0 d=0.0298197 t=368
+encwruq 	化提交	c=0 d=0.099005 t=368
+encwrww 	个报价	c=0 d=0.0360595 t=368
+encwslf 	人配置	c=0 d=0.0238115 t=368
+encwsra 	们要找	c=0 d=0.0900325 t=368
+encwsrc 	们要找台	c=0 d=0.0904837 t=368
+encwtgb 	什么事了	c=0 d=0.0529935 t=368
+encwtgk 	什么事	c=0 d=0.0527292 t=368
+encwtnn 	们自己	c=0 d=0.0748264 t=368
+encwtnr 	们自己搭	c=0 d=0.0752014 t=368
+encwtpr 	介么客气	c=0 d=0.0506617 t=368
+encwusv 	们要	c=0 d=0.0895834 t=368
+encwwfh 	华分赴	c=0 d=0.0332871 t=368
+encwwsl 	个人配置	c=0 d=0.0238115 t=368
+encwxcc 	货又	c=0 d=0.0514274 t=368
+encwxgn 	化与	c=0 d=0.1 t=350
+encxsaw 	结构划分	c=0 d=0.1 t=352
+encxuck 	给前台	c=0 d=0.0718924 t=368
+encxwwq 	给你	c=0 d=0.0467666 t=368
+encyjde 	这里有	c=0 d=0.0355226 t=368
+encyjdw 	这里有个	c=0 d=0.0357007 t=368
+encynxc 	就已经	c=0 d=0.0379083 t=368
+encypjf 	这里	c=0 d=0.0353455 t=368
+encypsu 	这样	c=0 d=0.0794534 t=368
+encypwx 	这货	c=0 d=0.0511709 t=368
+encyspw 	这样安全	c=0 d=0.0798516 t=368
+encystr 	文档我	c=0 d=0.0582748 t=368
+encystr 	文档我看	c=0 d=0.0585669 t=368
+encywcc 	这货又	c=0 d=0.0514274 t=368
+encywkb 	谁啊	c=0 d=0.0442639 t=368

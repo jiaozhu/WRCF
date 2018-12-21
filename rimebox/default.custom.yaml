@@ -8,5 +8,5 @@ patch:
         menu:
                 page_size: 8
         schema_list:
-                - schema: luna_pinyin_simp      # 朙月拼音 简化字
                 - schema: wubi_pinyin           # 五笔拼音混合輸入
+                - schema: luna_pinyin_simp      # 朙月拼音 简化字
